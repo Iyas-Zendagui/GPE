@@ -2,7 +2,8 @@
 A desktop application for the teachers personnel management
 created by ESI-SBA students : 
 
-                             - Achraf Nasser Eddine BELFERED
+			    
+			     - Achraf Nasser Eddine BELFERD
 		             - Bouemedien ROUBAI CHORFI  
 		             - Oussama BENKEMCHI 
 	                     - Wassim BOUDIEB
