@@ -1,5 +1,5 @@
 # GPE
-Desktop application for the teachers personnel management
+A desktop application for the teachers personnel management
 created by ESI-SBA students : 
                             - Achraf Nasser Eddine BELFERED
 		                        - Bouemedien ROUBAI CHORFI  
